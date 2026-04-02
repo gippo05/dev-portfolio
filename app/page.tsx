@@ -96,8 +96,8 @@ export default function PortfolioV2Homepage() {
     overview:
       'TimeWise started as a straightforward attendance system, then evolved into a more scalable SaaS product designed to support multiple businesses under one platform. The goal was to move beyond a portfolio project and build something that could realistically be onboarded, managed, and used by actual teams.',
     links: {
-      live: '#',
-      code: '#'
+      live: 'https://timewise-dev-version.vercel.app/auth/login',
+      code: 'https://github.com/gippo05/timewise-nextjs'
     },
     problem: [
       'Many small businesses still track attendance manually or through messy spreadsheets.',
